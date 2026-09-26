@@ -1,0 +1,7 @@
+{
+  "name": "LinkedIn Translator",
+  "description": "Say it like a normal person. We’ll make it LinkedIn. Satirical AI app transforming honest everyday thoughts into corporate career milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
